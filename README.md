@@ -1,0 +1,1 @@
+# kotlint-property-resolution-bug
